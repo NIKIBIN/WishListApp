@@ -1,0 +1,36 @@
+{
+  "sugestions_f": [
+    {
+      "name": "cat 1",
+      "price": 10.31,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BmDoHG4mL.png"
+    },
+    {
+      "name": "cat 2",
+      "price": 11.31,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BmDoHG4mL.png"
+    },
+    {
+      "name": "cat 3",
+      "price": 12.31,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BmDoHG4mL.png"
+    }
+  ],
+  "sugestions_m": [
+    {
+      "name": "cat 4",
+      "price": 14.31,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BmDoHG4mL.png"
+    },
+    {
+      "name": "cat 5",
+      "price": 16.31,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BmDoHG4mL.png"
+    },
+    {
+      "name": "cat 6",
+      "price": 18.31,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BmDoHG4mL.png"
+    }
+  ]
+}
